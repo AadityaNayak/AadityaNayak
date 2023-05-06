@@ -5,7 +5,7 @@
 
 
 ## Contributions
-![Aaditya's Contributions](https://github-readme-stats.vercel.app/api?username=AadityaNayak&show_icons=true&count_private=true&hide=issues&theme=react)
+![Aaditya's Contributions](https://github-readme-stats.vercel.app/api?username=AadityaNayak&show_icons=true&count_private=true&hide=stars,prs&theme=react&include_all_commits=true)
 
 ## Languages
 ![Aaditya's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaNayak&layout=compact&theme=react)
