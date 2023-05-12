@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I'm Aaditya Nayak, a Full Stack Developer, My prim
   <a href="https://github.com/AadityaNayak/APImpact">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaNayak&repo=APImpact&theme=dark" alt="APImpact" />
   </a>
+  <a href="https://github.com/AadityaNayak/ShopMax">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaNayak&repo=ShopMax&theme=dark" alt="SalonSphere" />
+  </a>
   <a href="https://github.com/AadityaNayak/SalonSphere">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaNayak&repo=SalonSphere&theme=dark" alt="SalonSphere" />
   </a>
@@ -28,9 +31,6 @@ Welcome to my GitHub profile! I'm Aaditya Nayak, a Full Stack Developer, My prim
   </a>
   <a href="https://github.com/AadityaNayak/Algorithms-Java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaNayak&repo=Algorithms-Java&theme=dark" alt="SalonSphere" />
-  </a>
-  <a href="https://github.com/AadityaNayak/ShopMax">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaNayak&repo=ShopMax&theme=dark" alt="SalonSphere" />
   </a>
 </p>
 
