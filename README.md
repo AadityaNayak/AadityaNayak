@@ -18,6 +18,9 @@ Welcome to my GitHub profile! I am a CS Graduate, my primary interests are full 
   <a href="https://github.com/AadityaNayak/Algorithms-Java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaNayak&repo=Algorithms-Java&theme=dark" alt="Algorithms-Java" />
   </a>
+  <a href="https://github.com/AadityaNayak/TaskBoard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaNayak&repo=TaskBoard&theme=dark" alt="TaskBoard" />
+  </a>
   <a href="https://github.com/AadityaNayak/APImpact">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AadityaNayak&repo=APImpact&theme=dark" alt="APImpact" />
   </a>
